@@ -19,7 +19,7 @@ os.environ["HTTPS_PROXY"] = "proxy.its.hpecorp.net:8080"
 load_dotenv()
 
 '''Api Key'''
-cohere_api_key = 'rv6z3azBajQPZFw7xoY3NgGvULhrY3rm6mPYl54S'
+cohere_api_key = API Key
 os.environ['COHERE_API_KEY'] = cohere_api_key
 
 
